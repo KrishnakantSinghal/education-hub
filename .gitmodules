@@ -1,0 +1,3 @@
+[submodule "education-hub-frontend"]
+	path = education-hub-frontend
+	url = https://github.com/KENZO-01/education-hub-frontend.git
